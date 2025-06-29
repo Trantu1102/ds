@@ -17,7 +17,7 @@
   },
  {
     "name": "Lạng Sơn",
-    "image": "./Assets/png/langson.jpg",
+    "image": "./Assets/png/langson.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Hồ Tiến Thiệu",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Lạng Sơn",
@@ -32,7 +32,7 @@
   },
   {
     "name": "Tuyên Quang",
-    "image": "./Assets/png/tuyenquang.png",
+    "image": "./Assets/png/tuyenquang.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Phan Huy Ngọc",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Tuyên Quang",
@@ -47,7 +47,7 @@
   },
   {
     "name": "Lào Cai",
-    "image": "./Assets/png/laocai.jpg",
+    "image": "./Assets/png/laocai.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Trần Huy Tuấn",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Lào Cai",
@@ -62,7 +62,7 @@
   },
   {
     "name": "Thái Nguyên",
-    "image": "./Assets/png/thainguyen.jpg",
+    "image": "./Assets/png/thainguyen.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Phạm Hoàng Sơn",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Thái Nguyên",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Phú Thọ",
-    "image": "./Assets/png/phutho.jpg",
+    "image": "./Assets/png/phutho.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Trần Duy Đông",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Phú Thọ",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Hưng Yên",
-    "image": "./Assets/png/hungyen.jpg",
+    "image": "./Assets/png/hungyen.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Nguyễn Khắc Thận",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Hưng Yên",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Lai Châu",
-    "image": "./Assets/png/laichau.jpg",
+    "image": "./Assets/png/laichau.webp",
     "bi_thu": "Giàng Páo Mỷ",
     "chu_tich": "Lê Văn Lương",
     "trich_ngang_bi_thu": "Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Lai Châu",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Điện Biên",
-    "image": "./Assets/png/dienbien.jpg",
+    "image": "./Assets/png/dienbien.webp",
     "bi_thu": "Trần Quốc Cường",
     "chu_tich": "Lê Thành Đô",
     "trich_ngang_bi_thu": "Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Điện Biên",
@@ -152,7 +152,7 @@
   },
   {
     "name": "Sơn La",
-    "image": "./Assets/png/sl.jpg",
+    "image": "./Assets/png/sl.webp",
     "bi_thu": "Hoàng Quốc Khánh",
     "chu_tich": "Nguyễn Đình Việt",
     "trich_ngang_bi_thu": "Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Sơn La",
@@ -213,7 +213,7 @@
   
   {
     "name": "Ninh Bình",
-    "image": "./Assets/png/ninhbinh.jpg",
+    "image": "./Assets/png/ninhbinh.webp",
     "bi_thu": "Hoàng Văn Nghiệm",
     "chu_tich": "Phạm Quang Ngọc",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Ninh Bình",
@@ -230,7 +230,7 @@
   
    {
     "name": "Thanh Hóa",
-    "image": "./Assets/png/thanhhoa.jpg",
+    "image": "./Assets/png/thanhhoa.webp",
     "bi_thu": "Nguyễn Văn Phương",
     "chu_tich": "Đỗ Minh Tuấn",
     "trich_ngang_bi_thu": "Ủy viên Ban Chấp hành Trung ương Đảng, Bí thư Tỉnh ủy Thanh Hóa",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Nghệ An",
-    "image": "./Assets/png/nghean.jpg",
+    "image": "./Assets/png/nghean.webp",
     "bi_thu": "Nguyễn Đức Trung",
     "chu_tich": "Lê Hồng Vinh",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Nghệ An",
@@ -260,7 +260,7 @@
   },
   {
     "name": "Hà Tĩnh",
-    "image": "./Assets/png/hatinh.jpg",
+    "image": "./Assets/png/hatinh.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Vũ Trọng Hải",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Hà Tĩnh",
@@ -290,7 +290,7 @@
   },
   {
     "name": "TP. Huế",
-    "image": "./Assets/png/hue.jpg",
+    "image": "./Assets/png/hue.webp",
     "bi_thu": "Lê Trường Lưu",
     "chu_tich": "Nguyễn Văn Phương",
     "trich_ngang_bi_thu": "Ủy viên Trung ương Đảng, Bí thư Thành ủy, Chủ tịch Hội đồng Nhân dân TP Huế",
@@ -305,7 +305,7 @@
   },
   {
     "name": "TP. Đà Nẵng",
-    "image": "./Assets/png/danang.jpg",
+    "image": "./Assets/png/danang.webp",
     "bi_thu": "Lê Trường Lưu",
     "chu_tich": "Lương Nguyễn Minh Triết",
     "trich_ngang_bi_thu": "Ủy viên Trung ương Đảng, Bí thư Thành ủy, Chủ tịch Hội đồng Nhân dân TP Đà Nẵng",
@@ -320,7 +320,7 @@
   },
 {
     "name": "Quảng Ngãi",
-    "image": "./Assets/png/quangngai.jpg",
+    "image": "./Assets/png/quangngai.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Nguyễn Hoàng Giang",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Quảng Ngãi",
@@ -380,7 +380,7 @@
   },
   {
     "name": "Lâm Đồng",
-    "image": "./Assets/png/ld.jpg",
+    "image": "./Assets/png/ld.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Hồ Văn Mười",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Lâm Đồng",
@@ -395,7 +395,7 @@
   },
   {
     "name": "Đồng Nai",
-    "image": "./Assets/png/dn.jpg",
+    "image": "./Assets/png/dn.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Hồ Văn Mười",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Đồng Nai",
@@ -410,7 +410,7 @@
   },
   {
     "name": "TP. Hồ Chí Minh",
-    "image": "./Assets/png/hcm.jpg",
+    "image": "./Assets/png/hcm.webp",
     "bi_thu": "Nguyễn Văn Nên",
     "chu_tich": "Nguyễn Văn Được",
     "trich_ngang_bi_thu": "Ủy viên Bộ Chính trị, Bí thư Thành ủy Hồ Chí Minh",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Tây Ninh",
-    "image": "./Assets/png/tayninh.jpg",
+    "image": "./Assets/png/tayninh.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Nguyễn Văn Út",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Tây Ninh",
@@ -440,7 +440,7 @@
   },
   {
     "name": "Đồng Tháp",
-    "image": "./Assets/png/dongthap.jpg",
+    "image": "./Assets/png/dongthap.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Nguyễn Văn Út",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Đồng Tháp",
@@ -455,7 +455,7 @@
   },
   {
     "name": "An Giang",
-    "image": "./Assets/png/angiang.jpg",
+    "image": "./Assets/png/angiang.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Hồ Văn Mừng",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy An Giang",
@@ -470,7 +470,7 @@
   },
   {
     "name": "TP. Cần Thơ",
-    "image": "./Assets/png/cantho.jpg",
+    "image": "./Assets/png/cantho.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Trần Văn Lâu",
     "trich_ngang_bi_thu": "Bí thư Thành ủy Cần Thơ",
@@ -485,7 +485,7 @@
   },
   {
     "name": "Vĩnh Long",
-    "image": "./Assets/png/vinhlong.jpg",
+    "image": "./Assets/png/vinhlong.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Lữ Quang Ngời",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Vĩnh Long",
@@ -500,7 +500,7 @@
   },
   {
     "name": "Cà Mau",
-    "image": "./Assets/png/camau.jpg",
+    "image": "./Assets/png/camau.webp",
     "bi_thu": "Nguyễn Duy Lâm",
     "chu_tich": "Phạm Thành Ngại",
     "trich_ngang_bi_thu": "Bí thư Tỉnh ủy Cà Mau",

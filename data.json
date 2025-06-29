@@ -26,7 +26,7 @@
     "image_chu_tich": "./Assets/png/langson_chutich.png",
     "dien_tich": "8.310,18 km²",
     "dan_so": "881.384",
-    "grdp": "349.735.616",
+    "grdp": "49.735.616",
     "thu_ngan_sach": "10.727.290",
     "region": ["north"]
   },
@@ -159,10 +159,10 @@
     "trich_ngang_chu_tich": "Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Sơn La",
      "image_bi_thu": "./Assets/png/sl_bithu.png",
     "image_chu_tich": "./Assets/png/sl_chutich.png",
-    "dien_tich": "9.539,93 km²",
-    "dan_so": "673.091",
-    "grdp": "31.663.387",
-    "thu_ngan_sach": "1.574.989",
+    "dien_tich": "14.108,89 km²",
+    "dan_so": "1.404.587",
+    "grdp": "76.626.373",
+    "thu_ngan_sach": "4.138.845",
     "region": ["north"]
   },
   {
@@ -204,7 +204,7 @@
     "trich_ngang_chu_tich": "Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Quảng Ninh",
      "image_bi_thu": "./Assets/png/qn_bithu.png",
     "image_chu_tich": "./Assets/png/qn_chutich.png",
-    "dien_tich": "96.207,95 km²",
+    "dien_tich": "6.207,95 km²",
     "dan_so": "1.497.447",
     "grdp": "347.533.978",
     "thu_ngan_sach": "53.730.346",

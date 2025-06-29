@@ -283,7 +283,7 @@ body {
     .card {
         padding: 2px 2px 8px 2px;
         border-radius: 8px;
-        background: linear-gradient(145deg, #ffffff 0%, #cbcccc 100%);
+        background: linear-gradient(145deg, #ffffff 0%, #eeeeee 100%);
         /* Gradient tối trên/trái, sáng dưới/phải */
         box-shadow:
             inset 2px 2px 4px #c6cdd2,

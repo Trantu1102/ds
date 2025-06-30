@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Roboto', Arial, sans-serif;
-    background: linear-gradient(135deg, #cdffd4 0%, #03a052 100%);
+    background: linear-gradient(135deg, #ff8282 0%, #a90000 100%);
     min-height: 100vh;
 }
 
@@ -213,20 +213,17 @@ body {
 }
 
 #region-filter {
-
-    /* Bằng card desktop */
-    min-width: 0;
-    max-width: 100%;
+    width: 150px;
     padding: 10px 22px 10px 14px;
     border-radius: 12px;
     font-size: 1.08em;
-    border: 1.8px solid #03a052;
-    background: linear-gradient(90deg, #f8fff8 60%, #e9f9ee 100%);
-    color: #1a5c2b;
-    box-shadow: 0 2px 12px 0 rgba(3, 160, 82, 0.10);
+    border: 1.8px solid #e53935;
+    background: linear-gradient(90deg, #fff6f6 60%, #ffeaea 100%);
+    color: #c40000;
+    box-shadow: 0 2px 12px 0 rgba(229, 57, 53, 0.08);
     outline: none;
     transition: border 0.18s, box-shadow 0.18s, background 0.18s;
-    font-weight: 600;
+    font-weight: 700;
     letter-spacing: 0.5px;
     appearance: none;
     cursor: pointer;
@@ -234,16 +231,16 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     background-image:
-        url("data:image/svg+xml,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 6l4 4 4-4' stroke='%2303a052' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+        url("data:image/svg+xml,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 6l4 4 4-4' stroke='%23e53935' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 12px center;
     background-size: 18px 18px;
 }
 
 #region-filter:focus {
-    border: 1.8px solid #1a5c2b;
-    box-shadow: 0 0 0 2px #b6f5d2;
-    background: linear-gradient(90deg, #e9f9ee 0%, #f8fff8 100%);
+    border: 1.8px solid #c40000;
+    box-shadow: 0 0 0 2px #ffd6d6;
+    background: linear-gradient(90deg, #ffeaea 0%, #fff6f6 100%);
 }
 
 
@@ -255,7 +252,7 @@ body {
 
 @media (max-width: 600px) {
     body {
-        background: linear-gradient(135deg, #bbffcc 0%, hsl(142, 100%, 24%) 100%);
+        background: linear-gradient(135deg, #ff5050 0%, #a90000(142, 100%, 24%) 100%);
     }
 
     .container {
@@ -271,7 +268,7 @@ body {
         /* Thêm dòng này để hạ tiêu đề xuống */
         letter-spacing: 1px;
         text-shadow: none;
-        color: #1a5c2b;
+        color: #ffffff;
     }
 
     .grid {
@@ -348,33 +345,25 @@ body {
     }
 
     #region-filter {
-        padding: 10px 22px 10px 14px;
+        width: 140px;
+        padding: 9px 16px 9px 10px;
         border-radius: 8px;
-        font-size: 1.07em;
-        border: 1.8px solid #03a052;
-        background: linear-gradient(90deg, #f8fff8 60%, #e9f9ee 100%);
-        color: #1a5c2b;
-        box-shadow: 0 2px 12px 0 rgba(3, 160, 82, 0.10);
-        outline: none;
-        transition: border 0.18s, box-shadow 0.18s, background 0.18s;
-        font-weight: 600;
-        letter-spacing: 0.5px;
-        appearance: none;
-        min-width: 0px;
-        cursor: pointer;
-        margin-left: 0;
-        margin-top: 0;
-        margin-bottom: 0;
+        font-size: 1em;
+        border: 1.5px solid #e53935;
+        background: linear-gradient(90deg, #fff6f6 60%, #ffeaea 100%);
+        color: #c40000;
+        box-shadow: 0 2px 8px 0 rgba(229, 57, 53, 0.08);
+        font-weight: 700;
         background-image:
-            url("data:image/svg+xml,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 6l4 4 4-4' stroke='%2303a052' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+            url("data:image/svg+xml,%3Csvg width='16' height='16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 6l4 4 4-4' stroke='%23e53935' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
         background-repeat: no-repeat;
-        background-position: right 12px center;
-        background-size: 18px 18px;
+        background-position: right 10px center;
+        background-size: 16px 16px;
     }
 
     #region-filter:focus {
-        border: 1.8px solid #1a5c2b;
-        box-shadow: 0 0 0 2px #b6f5d2;
-        background: linear-gradient(90deg, #e9f9ee 0%, #f8fff8 100%);
+        border: 1.5px solid #c40000;
+        box-shadow: 0 0 0 2px #ffd6d6;
+        background: linear-gradient(90deg, #ffeaea 0%, #fff6f6 100%);
     }
 }

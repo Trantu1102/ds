@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            background: linear-gradient(90deg, #1a5c2b 30%, #03a052 100%);
+            background: linear-gradient(90deg,rgb(161, 26, 26) 30%,rgb(160, 3, 3) 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             text-align: center;
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           ">
             <span style="vertical-align: middle;">${item.name}</span>
             <span style="vertical-align: middle; margin-left: 8px;">
-              <img src="Assets/icon.svg" alt="icon tòa nhà" style="width:26px;height:26px;display:inline-block;vertical-align:middle;filter:drop-shadow(0 1px 2px #03a05233);" />
+              <img src="Assets/icon.svg" alt="icon tòa nhà" style="width:26px;height:26px;display:inline-block;vertical-align:middle;filter:drop-shadow(0 1px 2pxrgba(160, 3, 3, 0.2));" />
             </span>
           </div>
           <div style="display:flex; gap:18px; justify-content:center; align-items:flex-start; margin-bottom:12px;">

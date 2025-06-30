@@ -56,13 +56,13 @@ document.addEventListener("DOMContentLoaded", async () => {
               ? `
               <div style="flex:1; text-align:center;">
                 <img src="${item.image_bi_thu || 'Assets/png/default-user.png'}" alt="Đồng chí" style="width:100px;height:100px;object-fit:cover;border-radius:50%;border:2px solid #1a5c2b;margin-bottom:8px;">
-                <div style="font-weight:bold; margin-bottom:2px;">Đồng chí</div>
+                <div style="margin-bottom:2px;">Đồng chí</div>
                 <div style="font-size:1.05em; font-weight:600; color:#222;">${item.bi_thu}</div>
                 <div style="font-size:0.97em; font-style:italic; color:#444; margin-top:4px;">${item.trich_ngang_bi_thu || ""}</div>
               </div>
               <div style="flex:1; text-align:center;">
                 <img src="${item.image_chu_tich || 'Assets/png/default-user.png'}" alt="Đồng chí" style="width:100px;height:100px;object-fit:cover;border-radius:50%;border:2px solid #1a5c2b;margin-bottom:8px;">
-                <div style="font-weight:bold; margin-bottom:2px;">Đồng chí</div>
+                <div style="margin-bottom:2px;">Đồng chí</div>
                 <div style="font-size:1.05em; font-weight:600; color:#222;">${item.chu_tich || ""}</div>
                 <div style="font-size:0.97em; font-style:italic; color:#444; margin-top:4px;">${item.trich_ngang_chu_tich || ""}</div>
               </div>
